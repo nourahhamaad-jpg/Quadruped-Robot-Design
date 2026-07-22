@@ -35,3 +35,33 @@ $$\tau = 1.96 \text{ N} \times 0.08 \text{ m} = \mathbf{0.1568 \text{ N}\cdot\te
 
 ## ⚖️ 3. Center of Gravity (CoG) & Balance
 * The Center of Gravity is centrally positioned beneath the primary chassis to maintain static equilibrium across the 4-leg support polygon.
+
+---
+
+## 🚶‍♂️ 4. Proposed Gait Pattern
+* **Gait Type:** **Trot Gait** (Diagonal pair movement).
+* **Description:** The robot moves dynamically by lifting diagonally opposite legs (e.g., Front-Right and Rear-Left) simultaneously while the other pair maintains ground contact to ensure static and dynamic stability during motion.
+
+---
+
+## ⚠️ 5. Expected Mechanical Challenges & Solutions
+1. **Joint Slippage & Backlash:** 
+   * *Solution:* Using high-precision servo brackets and secure joint locks.
+2. **Foot Friction (Slippage on smooth surfaces):** 
+   * *Solution:* Adding rubber/silicone pads at the base of each foot segment to increase traction.
+3. **Overheating under Static Hold:** 
+   * *Solution:* Optimizing leg angles in code to reduce holding torque when standing idle.---
+
+## 🚶‍♂️ 4. Proposed Gait Pattern
+* **Gait Type:** **Trot Gait** (Diagonal pair movement).
+* **Description:** The robot moves dynamically by lifting diagonally opposite legs (e.g., Front-Right and Rear-Left) simultaneously while the other pair maintains ground contact to ensure static and dynamic stability during motion.
+
+---
+
+## ⚠️ 5. Expected Mechanical Challenges & Solutions
+1. **Joint Slippage & Backlash:** 
+   * *Solution:* Using high-precision servo brackets and secure joint locks.
+2. **Foot Friction (Slippage on smooth surfaces):** 
+   * *Solution:* Adding rubber/silicone pads at the base of each foot segment to increase traction.
+3. **Overheating under Static Hold:** 
+   * *Solution:* Optimizing leg angles in code to reduce holding torque when standing idle.
