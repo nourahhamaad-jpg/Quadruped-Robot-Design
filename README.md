@@ -50,6 +50,6 @@ $$\tau = 1.96 \text{ N} \times 0.08 \text{ m} = \mathbf{0.1568 \text{ N}\cdot\te
 2. **Foot Friction (Slippage on smooth surfaces):** 
    * *Solution:* Adding rubber/silicone pads at the base of each foot segment to increase traction.
 3. **Overheating under Static Hold:** 
-   * *Solution:* Optimizing leg angles in code to reduce holding torque when standing idle.---
+   * *Solution:* Optimizing leg angles in code to reduce holding torque when standing idle.
 
 
